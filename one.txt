@@ -1,3 +1,2 @@
 this is first file
 we use revert command
-after that we will try push command
