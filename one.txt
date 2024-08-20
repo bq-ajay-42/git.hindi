@@ -1,2 +1,2 @@
 this is first file
-we use revert command
+there are many in command in git
